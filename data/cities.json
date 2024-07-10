@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,139 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "56f0",
+      "cityName": "Alcoba",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-10T20:25:15.624Z",
+      "notes": "",
+      "position": {
+        "lat": "39.2832938689385",
+        "lng": "-4.460449218750001"
+      }
+    },
+    {
+      "id": "9af2",
+      "cityName": "Oden",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-10T20:28:05.793Z",
+      "notes": "",
+      "position": {
+        "lat": "42.09822241118974",
+        "lng": "1.47216796875"
+      }
+    },
+    {
+      "id": "7477",
+      "cityName": "Laruns",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:30:49.795Z",
+      "notes": "",
+      "position": {
+        "lat": "42.85985981506279",
+        "lng": "-0.3515625"
+      }
+    },
+    {
+      "id": "fb75",
+      "cityName": "Laruns",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:30:49.795Z",
+      "notes": "",
+      "position": {
+        "lat": "42.85985981506279",
+        "lng": "-0.3515625"
+      }
+    },
+    {
+      "id": "c875",
+      "cityName": "Laruns",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:30:49.795Z",
+      "notes": "",
+      "position": {
+        "lat": "42.85985981506279",
+        "lng": "-0.3515625"
+      }
+    },
+    {
+      "id": "99fa",
+      "cityName": "Laruns",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:30:49.795Z",
+      "notes": "",
+      "position": {
+        "lat": "42.85985981506279",
+        "lng": "-0.3515625"
+      }
+    },
+    {
+      "id": "51f7",
+      "cityName": "Laruns",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:30:49.795Z",
+      "notes": "",
+      "position": {
+        "lat": "42.85985981506279",
+        "lng": "-0.3515625"
+      }
+    },
+    {
+      "id": "87b8",
+      "cityName": "Doyet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:30:58.526Z",
+      "notes": "",
+      "position": {
+        "lat": "46.36209301204985",
+        "lng": "2.8125"
+      }
+    },
+    {
+      "id": "9f2c",
+      "cityName": "Saint-Illiers-le-Bois",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-10T20:31:02.770Z",
+      "notes": "",
+      "position": {
+        "lat": "48.96579381461063",
+        "lng": "1.5161132812500002"
+      }
+    },
+    {
+      "id": "85b4",
+      "cityName": "Driedorf",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-07-10T20:31:48.094Z",
+      "notes": "",
+      "position": {
+        "lat": "50.62507306341437",
+        "lng": "8.151855468750002"
+      }
+    },
+    {
+      "id": "6b9d",
+      "cityName": "Jamy",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-07-10T20:32:47.279Z",
+      "notes": "asdas",
+      "position": {
+        "lat": "49.53946900793534",
+        "lng": "16.018066406250004"
+      }
     }
   ]
 }
